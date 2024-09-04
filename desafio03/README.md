@@ -1,1 +1,1 @@
-![Diagrama](/trilha.java.drawio.png)
+<img src="trilha.java.drawio.png" alt="Diagrama">
